@@ -12,6 +12,10 @@ public class TestService {
 		for (Stu stu : list) {
 			System.out.println(stu);
 		}*/
+		
+	}
+	public void find(){
+		System.out.println(n);
 	}
 
 }
